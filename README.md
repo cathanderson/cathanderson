@@ -1,6 +1,6 @@
 #### Hi, I'm Cath 👩🏼‍💻👋
 
-###### I'm a Software Engineer with an interest in frontend and full stack development living in Hoboken, NJ. A few of my skills include (but aren't limited to!): React, Redux, Javascript, HTML, CSS, Ruby on Rails, AWS, Google Maps API, and PostgreSQL.
+###### I'm a Software Engineer living in Hoboken, NJ with an interest in frontend and full stack development. A few of my skills include (but aren't limited to!): React, Redux, Javascript, HTML, CSS, Ruby on Rails, AWS, Google Maps API, and PostgreSQL.
 
 ###### Feel free to check out a few of my project repos below. If you like them, please reach out to me on [LinkedIn](https://www.linkedin.com/in/catherineanderson5/) or via email at cathanders10@gmail.com.
 
